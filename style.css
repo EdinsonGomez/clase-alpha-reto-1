@@ -132,6 +132,7 @@ body {
 
 .table th {
   padding: 16px 30px;
+  font-weight: 600;
 }
 
 .table td {
